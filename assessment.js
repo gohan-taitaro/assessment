@@ -73,7 +73,7 @@ const answers = [
     '{userName}のいいところは気配りです。',
     '{userName}のいいところは全てです。',
     '{userName}のいいところは自制心です。',
-    '{userName}のいいところはみかんです。'
+    '{userName}のいいところはみかんです。',
     '{userName}のいいところは優しさです。'
 ];
 
