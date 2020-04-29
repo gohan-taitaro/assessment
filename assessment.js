@@ -74,6 +74,7 @@ const answers = [
     '{userName}のいいところは全てです。',
     '{userName}のいいところは自制心です。',
     '{userName}のいいところはみかんです。'
+    '{userName}のいいところは優しさです。'
 ];
 
 /**
